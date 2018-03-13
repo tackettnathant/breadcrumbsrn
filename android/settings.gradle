@@ -1,0 +1,3 @@
+rootProject.name = 'breadcrumbsrn'
+
+include ':app'
